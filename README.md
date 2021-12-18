@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hello! 
+I'm QA Engineer!</h1>
 
-<!--
-**ECLIPSE170790/eclipse170790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
+<h3 align="left">My skills:</h3>
 
-Here are some ideas to get you started:
+|  IntelliJ IDEA |  Java  | Gradle | Junit5 | Selenide | GitHub | Jenkins | Selenoid | Allure Report | Jira | Telegram |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| <img src="img/IDEA.png" width="40" height="40">| <img src="img/Java.png" width="40" height="40"> | <img src="img/Gradle.png" width="40" height="40"> | <img src="img/JUnit.svg" width="40" height="40"> | <img src="img/Selenide.svg" width="40" height="40"> | <img src="img/GitHub.png" width="40" height="40"> | <img src="img/Jenkins.jpg" width="40" height="40"> | <img src="img/Selenoid.png" width="40" height="40"> | <img src="img/Allure.png" width="40" height="40"> | <img src="img/Jira.svg" width="40" height="40"> | <img src="img/Telegram.svg" width="40" height="40"> |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eclipse170790&show_icons=true&theme=github_dark)
+
+
