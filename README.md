@@ -1,5 +1,7 @@
 <h1 align="center">Hello! 
-I'm QA Engineer!</h1>
+I'm manual QA Engineer!</h1>
+
+<h3 align="left">My name is Ekaterina. I work at «Business & Technology Services». Now I'm studying  autotesting at QA.GURU school.</h3>
 
 ___
 <h3 align="left">My skills:</h3>
